@@ -2,8 +2,8 @@
 
 1.Include the snow flurry and jquery script along with jQuery in the document header
 
-`<script src="/jquery.min.js"></script>
-<script src="h5ab-snow-flurry.js"></script>`
+`<script src="/jquery.min.js"></script>`
+`<script src="h5ab-snow-flurry.js"></script>`
 
 2.Add the following jQuery code in the footer of your HTML document right before the closing body tag
 
