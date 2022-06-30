@@ -34,3 +34,5 @@ top: 110%;
 </style>`
 
 That’s it, save your HTML document and check out how awesome the snowfall effect looks. You can add more snowflakes by changing numberOfFlakes value in the jquery code, you can also control the speed of snowfall by modifying minSpeed and maxSpeed values.
+
+>Coded By © [Zion Ashirwada](https://github.com/zionashirwada)
